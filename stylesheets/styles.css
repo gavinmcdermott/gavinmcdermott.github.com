@@ -123,7 +123,7 @@ p.descriptor {
 }
 
 .sideBlock:hover {
-	-webkit-transform: scale(1.1em) translateX(-22px);
+	-webkit-transform: scale(1.1) translateX(-22px);
 	-moz-transform: scale(1.1) translateX(-22px);
 	-ms-transform: scale(1.1) translateX(-22px);
 	-o-transform: scale(1.1) translateX(-22px);
