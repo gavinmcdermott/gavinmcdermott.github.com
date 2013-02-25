@@ -86,7 +86,7 @@ a {
 .main {
 	display: block;
 	position: fixed;
-	width: 59%;
+	width: 59.5%;
 	min-height: 100%;
 }
 
@@ -103,7 +103,7 @@ a {
 	margin-right: 5px;
 	position: relative;
 	width: 100%;
-	height: 143px;
+	height: 6em;
 	text-align: right;
 	padding-top: 66px;
 	background-color: #cb2027;
@@ -133,16 +133,18 @@ p.descriptor {
 	position: relative;
 	width: 40%;
 	margin-left: 58.62%;
-	min-height: 242.7%;
+	/*min-height: 3000%;*/
 	background-color: #DEDEDE;
 }
 
 .sideBlock {
 	position: relative;
 	width: 100%;
-	height: 143px;
+	height: 6em;
 	text-align: left;
 	padding-top: 66px;
+	border-bottom: 1px solid #EBEBEB;
+
 	-webkit-transition: all .22s ease-in-out;
 	-moz-transition: all .22s ease-in-out;
 	-ms-transition: all .22s ease-in-out;
@@ -157,25 +159,6 @@ p.descriptor {
 .sideBlock:hover h1 {
 	color: white;
 	margin-left: 22px;
-/*	text-decoration: underline;
-*/}
-
-.sideBlock.leadIn {
-	background: #cb2027;
-	position: relative;
-	width: 100%;
-	height: 143px;
-	text-align: left;
-	-webkit-transition: all .22s ease-in-out;
-	-moz-transition: all .22s ease-in-out;
-	-ms-transition: all .22s ease-in-out;
-	-o-transition: all .22s ease-in-out;
-	transition: all .22s ease-in-out;
-	padding-left: 22px;
-}
-
-.sideBlock.leadIn h1 {
-	color: white;
 }
 
 .sideBlock .blog {
