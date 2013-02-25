@@ -95,9 +95,23 @@ a {
 	padding: 22px 0;
 	width: 67%;
 }
+
+span.red {
+	color: #cb2027;
+}
+
 p.descriptor {
 	font-weight: bolder;
 	line-height: 1.5em;
+}
+
+.photo {
+	padding-left: 2px;
+	margin-bottom: 11px;
+}
+
+.light {
+	color: #BABABA;
 }
 
 .sidebar {
@@ -241,11 +255,14 @@ p.descriptor {
 	font-size: 1.0em;
 }
 
-.photo {
-	padding-left: 2px;
-	margin-bottom: 11px;
+.footer {
+	margin-top: 11em;
 }
 
-.light {
-	color: #BABABA;
+.footer a {
+	color: #C9C9C9;
+}
+
+.footer a:hover {
+	color: #cb2027;
 }
