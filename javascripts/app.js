@@ -1,11 +1,5 @@
-$(function (){
-
-	$('.sideBlock').mouseover(function(){
-		$('.intro').addClass('red');
-		$('.footer').addClass('hidden');
-	}).mouseout(function() {
-		$('.intro').removeClass('red');
-		$('.footer').removeClass('hidden');
-	});
-
-});
+// $(function() {
+// 	$('.sideBlock').on('mouseover', function() {
+// 		$('.content h1').css('margin-right', '41%');
+// 	});
+// });
