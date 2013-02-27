@@ -104,7 +104,7 @@ a {
 
 .bottomContent h1 {
 	color: white;
-	margin-right: 41.5%;
+	margin-right: 43%;
 }
 
 .light {
@@ -118,7 +118,8 @@ a {
 	margin-left: 58.62%;
 	background-color: #DEDEDE;
 	padding-top: 189px;
-	height: 333%;
+	height: 1875px;
+	/*padding-bottom: 450px;*/
 }
 
 .sideBlock {
@@ -145,11 +146,11 @@ a {
 
 .sideBlock:hover h1 {
 	color: white;
-	-webkit-transform: translateX(-43px);
-	-moz-transform: translateX(-43px);
-	-ms-transform: translateX(-43px);
-	-o-transform: translateX(-43px);
-	transform: translateX(-43px);
+	-webkit-transform: translateX(-66px);
+	-moz-transform: translateX(-66px);
+	-ms-transform: translateX(-66px);
+	-o-transform: translateX(-66px);
+	transform: translateX(-66px);
 }
 
 .sideBlock .sub {
@@ -166,9 +167,9 @@ a {
 	font-size: 1em;
 	opacity: 1.0;
 	color: white;
-	-webkit-transform: translateX(-43px);
-	-moz-transform: translateX(-43px);
-	-ms-transform: translateX(-43px);
-	-o-transform: translateX(-43px);
-	transform: translateX(-43px);
+	-webkit-transform: translateX(-66px);
+	-moz-transform: translateX(-66px);
+	-ms-transform: translateX(-66px);
+	-o-transform: translateX(-66px);
+	transform: translateX(-66px);
 }
