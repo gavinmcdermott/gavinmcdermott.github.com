@@ -90,6 +90,13 @@ a {
 	height: 311px;
 }
 
+.desc {
+	width: 30%;
+	margin-left: 340px;
+	margin-top: 400px;
+	line-height: 44px;
+}
+
 .bottomContent {
 	display: block;
 	float: right;
