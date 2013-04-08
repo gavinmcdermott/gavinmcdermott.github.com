@@ -90,30 +90,6 @@ a {
 	height: 311px;
 }
 
-.desc {
-	width: 30%;
-	margin-left: 340px;
-	margin-top: 400px;
-	line-height: 44px;
-	font-size: 0.75em;
-}
-
-pre {
-	margin-top: 415px;
-	opacity: 0.3;
-	font-size: 1.2em;
-	-webkit-transition: all .22s ease-in-out;
-	-moz-transition: all .22s ease-in-out;
-	-ms-transition: all .22s ease-in-out;
-	-o-transition: all .22s ease-in-out;
-	transition: all .22s ease-in-out;
-}
-
-pre:hover {
-	opacity: 1;
-	color: #cb2027;
-}
-
 .bottomContent {
 	display: block;
 	float: right;
@@ -130,6 +106,24 @@ pre:hover {
 	color: white;
 	margin-right: 43%;
 }
+
+/*pre {
+	margin-top: 415px;
+	float: left;
+	margin-left: 11%;
+	opacity: 0.55;
+	line-height: 2em;
+	-webkit-transition: all .22s ease-in-out;
+	-moz-transition: all .22s ease-in-out;
+	-ms-transition: all .22s ease-in-out;
+	-o-transition: all .22s ease-in-out;
+	transition: all .22s ease-in-out;
+}
+
+pre:hover {
+	opacity: 1;
+	color: #cb2027;
+}*/
 
 .light {
 	color: #C7C7C7;
