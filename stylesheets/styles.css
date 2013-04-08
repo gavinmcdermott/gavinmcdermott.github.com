@@ -99,6 +99,9 @@ a {
 }
 
 pre {
+	margin-top: 415px;
+	opacity: 0.3;
+	font-size: 1.2em;
 	-webkit-transition: all .22s ease-in-out;
 	-moz-transition: all .22s ease-in-out;
 	-ms-transition: all .22s ease-in-out;
@@ -107,6 +110,7 @@ pre {
 }
 
 pre:hover {
+	opacity: 1;
 	color: #cb2027;
 }
 
