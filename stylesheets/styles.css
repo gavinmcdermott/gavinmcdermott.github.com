@@ -95,6 +95,19 @@ a {
 	margin-left: 340px;
 	margin-top: 400px;
 	line-height: 44px;
+	font-size: 0.75em;
+}
+
+pre {
+	-webkit-transition: all .22s ease-in-out;
+	-moz-transition: all .22s ease-in-out;
+	-ms-transition: all .22s ease-in-out;
+	-o-transition: all .22s ease-in-out;
+	transition: all .22s ease-in-out;
+}
+
+pre:hover {
+	color: #cb2027;
 }
 
 .bottomContent {
